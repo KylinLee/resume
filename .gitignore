@@ -3,4 +3,6 @@
 
 package-lock.json
 
+*.ttf
+
 .DS_Store
